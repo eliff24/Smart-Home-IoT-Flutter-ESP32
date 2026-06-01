@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "853025374945",
+    "firebase_url": "https://akillievprojesi01-default-rtdb.firebaseio.com",
+    "project_id": "akillievprojesi01",
+    "storage_bucket": "akillievprojesi01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853025374945:android:962e363f0c306f97892da0",
+        "android_client_info": {
+          "package_name": "com.akilliev.uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJA1-SBtrAvrNbYd-D1_MyakU7rc-nOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853025374945:android:cecb0a40370e09d9892da0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNJA1-SBtrAvrNbYd-D1_MyakU7rc-nOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
