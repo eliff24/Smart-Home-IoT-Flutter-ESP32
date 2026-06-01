@@ -2,7 +2,7 @@
 
 # 🏠 Mobil Uygulama Destekli Akıllı Ev Sistemi (IoT)
 
-Bu proje, Selçuk Üniversitesi Teknoloji Fakültesi Bilgisayar Mühendisliği Bölümü **Mühendislik Tasarımı** dersi kapsamında uçtan uca (End-to-End) tasarlanmış, gerçek zamanlı çalışan bir Nesnelerin İnterneti (IoT) ekosistemidir. 
+Bu proje, uçtan uca (End-to-End) tasarlanmış, gerçek zamanlı çalışan bir Nesnelerin İnterneti (IoT) ekosistemidir. 
 
 Proje; fiziksel donanım katmanı, NoSQL bulut haberleşme katmanı ve reaktif mobil uygulama katmanı olmak üzere 3 temel yapıdan oluşmaktadır.
 
